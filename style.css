@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho {
+    background-color: #001f50;
+    color: white;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    padding: 40px 20px;
+}
+
+.cabecalho-imagem{
+    width: 20%;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+
+.escola {
+    background-color: #001f50;
+    color: white;
+    ;
+}
+
+.titulo2{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;    
+}
+
+.conteudo{
+    padding: 24px 0;
+    margin: 20px;
+}
+
+.texto{
+    margin: 20px;
+}
+
+.rodape{
+    background-color:  #001f50;
+    text-align: center;
+    
+}
+
+.rodape-imagem{
+    height: 60px;
+    padding: 80px 0;
+    background-color: #001f50;
+}
+
+.introducao{
+    padding: 80px 0;
+}
